@@ -9,6 +9,10 @@ Python으로 만든 카카오톡 자동 메시지 프로그램입니다.
 ## 사용 기술
 
 - Python
+- tkinter
+- pyautogui
+- pyperclip
+- pywin32
 
 ## 주요 기능
 
